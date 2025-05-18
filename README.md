@@ -71,10 +71,6 @@ $ python3 dnswatch.py [-h] [-i INTERFACE] [-v] [-t TARGET_IP] [-d] [--doh] [-D T
 
 Press `Ctrl+C` to stop the sniffing process.
 
-## Usage Examples
-
-Here are some usage examples of DNSWatch: [You can explore it here](https://BenzoXdev.com/2023/09/05/dnswatch-dns-traffic-analyzer/):
-
 
 ## License
 
